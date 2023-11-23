@@ -42,7 +42,7 @@
 		12F0E94C2A8C832100773BAD /* Time.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12F0E94B2A8C832100773BAD /* Time.swift */; };
 		12F0E94E2A8C869600773BAD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12F0E94D2A8C869600773BAD /* AppDelegate.swift */; };
 		12F0E9522A8C89A000773BAD /* NotificationService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12F0E9512A8C89A000773BAD /* NotificationService.swift */; };
-		12F3EA0F2AA70ACF00944994 /* Color+extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12F3EA0E2AA70ACF00944994 /* Color+extensions.swift */; };
+		12F3EA0F2AA70ACF00944994 /* Color+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12F3EA0E2AA70ACF00944994 /* Color+Extensions.swift */; };
 		12FE29272A9C67F000142894 /* WriteBtn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12FE29262A9C67F000142894 /* WriteBtn.swift */; };
 /* End PBXBuildFile section */
 
@@ -83,7 +83,7 @@
 		12F0E94B2A8C832100773BAD /* Time.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Time.swift; sourceTree = "<group>"; };
 		12F0E94D2A8C869600773BAD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		12F0E9512A8C89A000773BAD /* NotificationService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationService.swift; sourceTree = "<group>"; };
-		12F3EA0E2AA70ACF00944994 /* Color+extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color+extensions.swift"; sourceTree = "<group>"; };
+		12F3EA0E2AA70ACF00944994 /* Color+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color+Extensions.swift"; sourceTree = "<group>"; };
 		12FE29262A9C67F000142894 /* WriteBtn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WriteBtn.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -210,7 +210,7 @@
 				129E95992A8B90020066B43A /* Date+Extensions.swift */,
 				121221312A8CCF3A00C57015 /* Double+Extensions.swift */,
 				123539972A8C82D900224592 /* Int+Extensions.swift */,
-				12F3EA0E2AA70ACF00944994 /* Color+extensions.swift */,
+				12F3EA0E2AA70ACF00944994 /* Color+Extensions.swift */,
 			);
 			path = Extension;
 			sourceTree = "<group>";
@@ -460,7 +460,7 @@
 				12FE29272A9C67F000142894 /* WriteBtn.swift in Sources */,
 				12E7D5392A8B451E00A77193 /* Tab.swift in Sources */,
 				12E7D51A2A8B2D6700A77193 /* OnboardingViewModel.swift in Sources */,
-				12F3EA0F2AA70ACF00944994 /* Color+extensions.swift in Sources */,
+				12F3EA0F2AA70ACF00944994 /* Color+Extensions.swift in Sources */,
 				12E7D5282A8B2DA700A77193 /* VoiceRecorderViewModel.swift in Sources */,
 				12E7D5462A8B7DF700A77193 /* Todo.swift in Sources */,
 			);
